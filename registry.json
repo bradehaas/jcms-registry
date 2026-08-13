@@ -1,0 +1,37 @@
+{
+  "updated": "2026-08-12",
+  "plugins": [
+    {
+      "name": "Posts",
+      "package": "jcms/plugin-posts",
+      "repo": "https://github.com/bradehaas/jcms-plugin-posts",
+      "version": "0.1.0",
+      "category": "Content",
+      "description": "News stories and blog posts with rich text, a featured image, source/excerpt fields, and a spotlight."
+    },
+    {
+      "name": "Events",
+      "package": "jcms/plugin-events",
+      "repo": "https://github.com/bradehaas/jcms-plugin-events",
+      "version": "0.1.0",
+      "category": "Content",
+      "description": "Events with dates, location, category, images, spotlight, and an upcoming/ongoing feed."
+    },
+    {
+      "name": "Locations",
+      "package": "jcms/plugin-locations",
+      "repo": "https://github.com/bradehaas/jcms-plugin-locations",
+      "version": "0.1.0",
+      "category": "Content",
+      "description": "Places and venues with weekly hours, holiday overrides, and an \"Open today\" engine."
+    },
+    {
+      "name": "Sponsors",
+      "package": "jcms/plugin-sponsors",
+      "repo": "https://github.com/bradehaas/jcms-plugin-sponsors",
+      "version": "0.1.0",
+      "category": "Content",
+      "description": "Sponsor and partner logos with custom ordering and a grid render tag."
+    }
+  ]
+}
