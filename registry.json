@@ -1,9 +1,10 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-14",
   "plugins": [
     {
       "name": "Posts",
       "package": "jcms/plugin-posts",
+      "class": "Jcms\\Posts\\PostsPlugin",
       "repo": "https://github.com/bradehaas/jcms-plugin-posts",
       "version": "0.1.0",
       "category": "Content",
@@ -12,6 +13,7 @@
     {
       "name": "Events",
       "package": "jcms/plugin-events",
+      "class": "Jcms\\Events\\EventsPlugin",
       "repo": "https://github.com/bradehaas/jcms-plugin-events",
       "version": "0.1.0",
       "category": "Content",
@@ -20,6 +22,7 @@
     {
       "name": "Locations",
       "package": "jcms/plugin-locations",
+      "class": "Jcms\\Locations\\LocationsPlugin",
       "repo": "https://github.com/bradehaas/jcms-plugin-locations",
       "version": "0.1.0",
       "category": "Content",
@@ -28,6 +31,7 @@
     {
       "name": "Sponsors",
       "package": "jcms/plugin-sponsors",
+      "class": "Jcms\\Sponsors\\SponsorsPlugin",
       "repo": "https://github.com/bradehaas/jcms-plugin-sponsors",
       "version": "0.1.0",
       "category": "Content",
