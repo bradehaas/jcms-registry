@@ -1,41 +1,50 @@
 {
-  "updated": "2026-08-14",
-  "plugins": [
-    {
-      "name": "Posts",
-      "package": "jcms/plugin-posts",
-      "class": "Jcms\\Posts\\PostsPlugin",
-      "repo": "https://github.com/bradehaas/jcms-plugin-posts",
-      "version": "0.1.0",
-      "category": "Content",
-      "description": "News stories and blog posts with rich text, a featured image, source/excerpt fields, and a spotlight."
-    },
-    {
-      "name": "Events",
-      "package": "jcms/plugin-events",
-      "class": "Jcms\\Events\\EventsPlugin",
-      "repo": "https://github.com/bradehaas/jcms-plugin-events",
-      "version": "0.1.0",
-      "category": "Content",
-      "description": "Events with dates, location, category, images, spotlight, and an upcoming/ongoing feed."
-    },
-    {
-      "name": "Locations",
-      "package": "jcms/plugin-locations",
-      "class": "Jcms\\Locations\\LocationsPlugin",
-      "repo": "https://github.com/bradehaas/jcms-plugin-locations",
-      "version": "0.1.0",
-      "category": "Content",
-      "description": "Places and venues with weekly hours, holiday overrides, and an \"Open today\" engine."
-    },
-    {
-      "name": "Sponsors",
-      "package": "jcms/plugin-sponsors",
-      "class": "Jcms\\Sponsors\\SponsorsPlugin",
-      "repo": "https://github.com/bradehaas/jcms-plugin-sponsors",
-      "version": "0.1.0",
-      "category": "Content",
-      "description": "Sponsor and partner logos with custom ordering and a grid render tag."
-    }
-  ]
+    "updated": "2026-08-15",
+    "plugins": [
+        {
+            "name": "Posts",
+            "package": "jcms/plugin-posts",
+            "class": "Jcms\\Posts\\PostsPlugin",
+            "repo": "https://github.com/bradehaas/jcms-plugin-posts",
+            "version": "0.1.0",
+            "category": "Content",
+            "description": "News stories and blog posts with rich text, a featured image, source/excerpt fields, and a spotlight."
+        },
+        {
+            "name": "Events",
+            "package": "jcms/plugin-events",
+            "class": "Jcms\\Events\\EventsPlugin",
+            "repo": "https://github.com/bradehaas/jcms-plugin-events",
+            "version": "0.1.0",
+            "category": "Content",
+            "description": "Events with dates, location, category, images, spotlight, and an upcoming/ongoing feed."
+        },
+        {
+            "name": "Locations",
+            "package": "jcms/plugin-locations",
+            "class": "Jcms\\Locations\\LocationsPlugin",
+            "repo": "https://github.com/bradehaas/jcms-plugin-locations",
+            "version": "0.1.0",
+            "category": "Content",
+            "description": "Places and venues with weekly hours, holiday overrides, and an \"Open today\" engine."
+        },
+        {
+            "name": "Sponsors",
+            "package": "jcms/plugin-sponsors",
+            "class": "Jcms\\Sponsors\\SponsorsPlugin",
+            "repo": "https://github.com/bradehaas/jcms-plugin-sponsors",
+            "version": "0.1.0",
+            "category": "Content",
+            "description": "Sponsor and partner logos with custom ordering and a grid render tag."
+        },
+        {
+            "name": "Demo Widget",
+            "package": "jcms/plugin-demo-widget",
+            "class": "Jcms\\DemoWidget\\DemoWidgetPlugin",
+            "repo": "https://github.com/bradehaas/jcms-plugin-demo-widget",
+            "version": "0.1.0",
+            "category": "Content",
+            "description": "Demo Widget plugin for JCMS."
+        }
+    ]
 }
