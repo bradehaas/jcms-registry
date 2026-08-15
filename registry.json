@@ -45,6 +45,15 @@
             "version": "0.1.0",
             "category": "Content",
             "description": "Demo Widget plugin for JCMS."
+        },
+        {
+            "name": "Demo Two",
+            "package": "jcms/plugin-demo-two",
+            "class": "Jcms\\DemoTwo\\DemoTwoPlugin",
+            "repo": "https://github.com/bradehaas/jcms-plugin-demo-two",
+            "version": "0.1.0",
+            "category": "Content",
+            "description": "Demo Two plugin for JCMS."
         }
     ]
 }
